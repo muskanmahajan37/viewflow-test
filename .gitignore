@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.db
+.DS_Store
+.coverage
+local_settings.py
+.idea
+static/CACHE/
+**/*/.thumbnails/*
+utils/exports/*.md
+utils/exports/*.html
+*.pdf
+**/*.pdf
+static/media/avatars/
